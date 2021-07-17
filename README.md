@@ -1,2 +1,2 @@
 # lite.ai-jni
-A JNI wrapper of Lite.AI for Java and Android users.
+A JNI wrapper of [Lite.AI](https://github.com/DefTruth/lite.ai) for Java and Android users.

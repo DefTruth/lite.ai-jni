@@ -1,2 +1,2 @@
-# litehub-android
-Release the libs of litehub for Android.
+# lite.ai-jni
+A JNI wrapper of Lite.AI for Java and Android users.

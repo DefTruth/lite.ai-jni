@@ -1,2 +1,4 @@
-# lite.ai-jni
-A JNI wrapper of [Lite.AI](https://github.com/DefTruth/lite.ai) for Java and Android users.
+# Lite.AI.ToolKit.JNI 🚀🚀🌟
+Lite.AI.ToolKit.JNI 🚀🚀🌟 is a JNI wrapper of [Lite.AI.ToolKit](https://github.com/DefTruth/lite.ai.toolkit) for Java and Android. 
+
+* TODO
